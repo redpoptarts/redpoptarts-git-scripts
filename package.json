@@ -1,0 +1,12 @@
+{
+  "name": "redpoptarts-git-scripts",
+  "version": "0.0.2",
+  "description": "Git helper scripts",
+  "repository": "https://github.com/redpoptarts/redpoptarts-git-scripts",
+  "author": "Caleb Morrell",
+  "license": "MIT",
+  "bin": {
+    "hello": "./src/cli.js",
+    "makePoptarts": "./src/config.js"
+  }
+}
